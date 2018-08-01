@@ -26,6 +26,7 @@ gem 'devise'
 gem 'figaro'
 gem 'toastr-rails'
 gem 'bootstrap-sass'
+gem 'rename'
 gem 'jquery-rails'
 gem 'jquery-turbolinks'
 # Use Redis adapter to run Action Cable in production
